@@ -50,5 +50,3 @@ If you need help with setup, customization, or anything else, don’t hesitate t
 
 ## 📜 License
 Free to use. Check the license file for more details.
-## 📜 License
-Free to use. Check the license file for more details.
